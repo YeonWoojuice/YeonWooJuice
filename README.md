@@ -1,14 +1,17 @@
 ## Hi there!
 
-DevOps / Backend Engineer in training  
-Interested in cloud infrastructure, Kubernetes, automation, and AI-powered products.
+I'm a student developer learning backend development and DevOps.
+These days, I'm mainly working with Kubernetes, Docker, AWS, and cloud infrastructure.
 
 ## About Me
-- Currently learning DevOps, Kubernetes, Docker, and AWS
-- Interested in building reliable backend systems and cloud-native services
-- I enjoy turning unclear requirements into structured systems and practical workflows
 
+* Learning DevOps, Kubernetes, Docker, and AWS ☁️
+* Interested in backend systems, infrastructure, and cloud-native applications
+* I like organizing messy requirements into clear systems and practical plans
+* I also enjoy running student developer events and creating spaces where people can learn together
 
 ## Contact
-- Email: juyeonu221@gmail.com
-- Blog: https://daetachulldong.tistory.com/
+
+* Email: juyeonu221@gmail.com
+* Blog: https://daetachulldong.tistory.com/
+
