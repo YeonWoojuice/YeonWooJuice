@@ -14,4 +14,4 @@ These days, I'm mainly working with Kubernetes, Docker, AWS, and cloud infrastru
 
 * Email: juyeonu221@gmail.com
 * Blog: https://daetachulldong.tistory.com/
-
+* Club Operations Archive: https://aunae501.notion.site/main
