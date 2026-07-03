@@ -4,7 +4,6 @@ DevOps / Backend Engineer in training
 Interested in cloud infrastructure, Kubernetes, automation, and AI-powered products.
 
 ## About Me
-- Computer Science student
 - Currently learning DevOps, Kubernetes, Docker, and AWS
 - Interested in building reliable backend systems and cloud-native services
 - I enjoy turning unclear requirements into structured systems and practical workflows
