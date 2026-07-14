@@ -1,20 +1,15 @@
-## Hi there!
+관심: 백엔드 개발, DevOps
+현재 학습중: Kubernetes, Docker, 클라우드 인프라(AWS 등)
 
-I'm a student developer learning backend development and DevOps.
-These days, I'm mainly working with Kubernetes, Docker, AWS, and cloud infrastructure.
+## 한줄 소개 - 배움을 즐겨요!
 
-## About Me
+* 커뮤니티를 통해 , 함께 배우고 성장할 수 있는 환경을 만드는 것을 즐깁니다.
 
-* Learning DevOps, Kubernetes, Docker, and AWS ☁️
-* Interested in backend systems, infrastructure, and cloud-native applications
-* I like organizing messy requirements into clear systems and practical plans
-* I also enjoy running student developer events and creating spaces where people can learn together
-
-## Contact
+## 이메일
 
 * Email: juyeonu221@gmail.com
 
-## Links
+## 링크
 
 * Blog: https://daetachulldong.tistory.com/
 * Club Operations Archive: https://aunae501.notion.site/main
