@@ -4,6 +4,10 @@
 * 관심: 백엔드 개발, DevOps
 * 현재 학습중: Kubernetes, Docker, 클라우드 인프라(AWS 등)
 
+## 레포 소개
+* 동아리 관리 플랫폼 "CrewCat" - **clubflow - v1**
+
+
 ## 이메일
 
 * Email: juyeonu221@gmail.com
