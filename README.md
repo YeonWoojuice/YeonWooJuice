@@ -6,8 +6,8 @@
 
 ## 레포 소개
 * 😸 동아리 관리 플랫폼 **"CrewCat"** 👉 **[club-flow-v1](https://github.com/YeonWoojuice/club-flow-v1)**
-* 📝 통합 입출금 플랫폼 **"showmethemoney"** 👉 **[showmethemoney](https://github.com/YeonWoojuice/ShowMeTheMoney)**
-* 🏃‍♀️ 지역 스포츠 모임 생성 플랫폼 **"sportfit"** 👉 **[sfit-api-server](https://github.com/YeonWoojuice/sfit-api-server)**
+* 📝 통합 입출금 플랫폼 1차 개발 **"showmethemoney"** 👉 **[showmethemoney](https://github.com/YeonWoojuice/ShowMeTheMoney)**
+* 🏃‍♀️ 통합 입출금 플랫폼 2차 개발 **"showmethemoney2"** 👉 **[showmethemoney2]([https://github.com/YeonWoojuice/sfit-api-server](https://github.com/LikeLionTeam4/ShowMeTheMoney-infra))**
 * 🐍 파이썬 알고리즘 스터디 코드트리 공부기록 모음 **"CodeTree"** 👉 **[CodeTree](https://github.com/YeonWoojuice/CodeTree)**
 * 🐍 파이썬 첫 개발 프로젝트 **"runningcat"** 👉 **[runningcat](https://github.com/SangMinYEE/AUNAE-IDOL)**
 
